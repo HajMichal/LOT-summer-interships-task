@@ -1,0 +1,26 @@
+<people>
+    <person>
+        <name>John</name>
+        <surname>Doe</surname>
+        <age>30</age>
+        <gender>Male</gender>
+        <rank>Manager</rank>
+        <salary>50000</salary>
+    </person>
+    <person>
+        <name>Jane</name>
+        <surname>Smith</surname>
+        <age>25</age>
+        <gender>Female</gender>
+        <rank>Developer</rank>
+        <salary>60000</salary>
+    </person>
+    <person>
+        <name>Wojciech</name>
+        <surname>Kantor</surname>
+        <age>44</age>
+        <gender>Male</gender>
+        <rank>Manager</rank>
+        <salary>44000</salary>
+    </person>
+</people>
